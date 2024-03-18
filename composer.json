@@ -20,7 +20,7 @@
         "endroid/qr-code": "^4.7",
         "illuminate/contracts": "^10.0",
         "illuminate/support": "^10.0",
-        "intervention/image": "^2.7",
+        "intervention/image": "^3.5",
         "ksubileau/color-thief-php": "^2.0",
         "bombenprodukt/laravel-package-powerpack": "^1.0"
     },
